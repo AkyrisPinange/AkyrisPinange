@@ -1,6 +1,6 @@
 # Hi there, I'm Akyris! 👋
 
-I'm a passionate software develope.
+I'm a passionate software developer.
 ## GitHub Stats
 
 ![Akyris' GitHub stats](https://github-readme-stats.vercel.app/api?username=AkyrisPinange&include_all_commits=true&show_icons=true&theme=radical)
